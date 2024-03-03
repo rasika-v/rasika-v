@@ -1,10 +1,30 @@
-### Hi there, I'm Rasika! 👋
+### Hi there 👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/rasika-v/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
+Hi there! I'm Rasika, a Master's student passionate about Software Development. Welcome to my GitHub profile, where you can find some of my projects and contributions.
+
+## About Me
+--------------
+
+- 🔭 I’m currently pursuing my Master's in Science in Computer Science at Illinois Institute of Technology!
+- 🌱 I’m currently learning Python.
+- 😄 Pronouns: She/Her.
+
+## Technologies & Tools
+
+Here are some of the technologies and tools that I work with:
+
+- Programming Languages: Javascript, Python, Java
+- Frameworks & Libraries: React, Node.js
+- Databases: Postgres, MySQL, Firebase
+
+## You can find me on:
+
+- [https://www.linkedin.com/in/rasika-v/]
 
 <!--
 **rasika-v/rasika-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
