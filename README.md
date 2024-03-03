@@ -1,7 +1,7 @@
 ### Hi there, I'm Rasika! 👋
 
 <div id="badges">
-  <a href="(https://www.linkedin.com/in/rasika-v/)">
+  <a href="https://www.linkedin.com/in/rasika-v/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
