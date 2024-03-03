@@ -8,7 +8,6 @@
 Hi there! I'm Rasika, a Master's student passionate about Software Development. Welcome to my GitHub profile, where you can find some of my projects and contributions.
 
 ## About Me
---------------
 
 - 🔭 I’m currently pursuing my Master's in Science in Computer Science at Illinois Institute of Technology!
 - 🌱 I’m currently learning Python.
