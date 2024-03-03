@@ -15,6 +15,9 @@ Here are some of the technologies and tools that I work with:
 - Frameworks & Libraries: React, Node.js
 - Databases: Postgres, MySQL, Firebase
 
+## Publications
+- **An Intelligent Pothole Detection and Alerting System using Mobile Sensors and Deep Learning** - IEEE 18th India Council International Conference (INDICON), 2021
+
 ## You can find me at:
 
 <div id="badges">
