@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Rasika! 👋
+
+<div id="badges">
+  <a href="(https://www.linkedin.com/in/rasika-v/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 
 <!--
 **rasika-v/rasika-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
