@@ -25,6 +25,8 @@ Here are some of the technologies and tools that I work with:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
+  Find My Patent Application here: https://iprsearch.ipindia.gov.in/PatentSearch/PatentSearch/ViewApplicationStatus
+
 
 <!--
 **rasika-v/rasika-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
