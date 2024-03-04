@@ -25,6 +25,8 @@ Here are some of the technologies and tools that I work with:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
+  Find My Published Research Paper here: https://ieeexplore.ieee.org/document/9691661
+
   Find My Patent Application here: https://iprsearch.ipindia.gov.in/PatentSearch/PatentSearch/ViewApplicationStatus
 
 
