@@ -19,7 +19,7 @@
 Here are some of the tools and technologies I work with:
 
 - **Languages**: JavaScript, Python, Java
-- **Frameworks & Libraries**: React, Node.js
+- **Frameworks & Libraries**: React, Node.js, Flutter, React Native
 - **Databases**: PostgreSQL, MySQL, Firebase
 
 ---
@@ -41,27 +41,12 @@ Here are a few projects I’m proud of:
 
 [![View Project](https://img.shields.io/badge/View-Project-blueviolet?style=for-the-badge)](https://ieeexplore.ieee.org/document/9691661)
 
----
+- 📄 [Patent Application](https://iprsearch.ipindia.gov.in/PatentSearch/PatentSearch/ViewApplicationStatus)
 
-### 🖥️ [Your Project Name Here]
-> Short 1-line description about the project goes here.
-
-[![GitHub](https://img.shields.io/badge/View-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/your-username/your-repo)
-
----
-
-### 📱 [Another Cool Project]
-> Brief description about this project.
-
-[![GitHub](https://img.shields.io/badge/View-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/your-username/your-repo)
 
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasika-v&show_icons=true&theme=tokyonight" alt="Rasika's GitHub stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasika-v&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -77,17 +62,7 @@ Here are a few projects I’m proud of:
   </a>
 </p>
 
-- 📄 [Patent Application](https://iprsearch.ipindia.gov.in/PatentSearch/PatentSearch/ViewApplicationStatus)
 
----
-
-## 🌟 Visitors Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rasika-v&label=Profile%20views&color=0e75b6&style=flat" alt="rasika-v" />
-</p>
-
-</div>
 
 ---
 
