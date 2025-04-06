@@ -1,9 +1,7 @@
+<div style="background-color: #ffe6f0; padding: 20px; border-radius: 10px;">
+
 <h1 align="center">Hi there 👋, I'm <span style="color:#F59E0B;">Rasika</span>!</h1>
 <h3 align="center">A passionate Software Developer & Tech Enthusiast 🚀</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Welcome GIF"/>
-</p>
 
 ---
 
@@ -59,10 +57,6 @@ Here are a few projects I’m proud of:
 
 ---
 
-*Tip: You can add as many pinned projects as you want by repeating the format above!*
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -92,6 +86,8 @@ Here are a few projects I’m proud of:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rasika-v&label=Profile%20views&color=0e75b6&style=flat" alt="rasika-v" />
 </p>
+
+</div>
 
 ---
 
