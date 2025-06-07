@@ -7,18 +7,16 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing my **Master of Science in Computer Science** at *Illinois Institute of Technology*.
-- 🧠 Currently diving deeper into **Python** and expanding my full-stack skills.
+- 🎓 **Master of Science in Computer Science**, *Illinois Institute of Technology*.
+- 🎓 **Bachelor of Technology in Computer Science and Engineering**, *Illinois Institute of Technology*.
 - 💬 Pronouns: **She/Her**.
-- 🌟 Always curious, always coding!
-
 ---
 
 ## 🛠️ Technologies & Tools
 
 Here are some of the tools and technologies I work with:
 
-- **Languages**: JavaScript, Python, Java
+- **Languages**: JavaScript, TypeScript, Python
 - **Frameworks & Libraries**: React, Node.js, Flutter, React Native
 - **Databases**: PostgreSQL, MySQL, Firebase
 
